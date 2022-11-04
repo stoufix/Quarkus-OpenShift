@@ -1,12 +1,5 @@
 # Quarkus RESt API example
 
-This project uses Quarkus to build REST APIs. 
-
-For the tutorials check the below links,
-- [Building REST APIs with Quarkus](https://www.geekyhacker.com/2020/06/06/building-rest-apis-with-quarkus/)
-- [Use MySQL in Quarkus with Hibernate and Panache](https://www.geekyhacker.com/2020/06/09/use-mysql-in-quarkus-with-hibernate-and-panache/)
-- [How to add Swagger to Quarkus](https://www.geekyhacker.com/2020/06/12/how-to-add-swagger-to-quarkus/)
-- [Secure REST APIs in Quarkus using Basic Auth](https://www.geekyhacker.com/2020/06/17/secure-rest-apis-in-quarkus-using-basic-auth/)
 
 ## Running the application in `dev` mode
 
